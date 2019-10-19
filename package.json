@@ -15,7 +15,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "mongoose": "^5.3.13",
+    "mongoose": "^5.4.10",
     "snyk": "^1.193.1"
   },
   "snyk": true
